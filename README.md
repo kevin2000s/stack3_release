@@ -4,10 +4,11 @@
 
 ## 使用
 
-**下载 `stack3_predictor.zip`（Release asset，~700 MB 压缩 / 1.1 GB 解压）→ 解压 → 双击 `stack3_predictor/stack3_predictor.exe`**。
+**[下载 `stack3_predictor.zip`](https://github.com/kevin2000s/stack3_release/releases/latest/download/stack3_predictor.zip)**（Release asset，~620 MB 压缩 / 1.1 GB 解压）→ 解压 → 双击 `stack3_predictor/stack3_predictor.exe`。
 
 > 整个 `stack3_predictor/` 文件夹都必需（含 `_internal/` 依赖）。
 > 只把 `.exe` 单独拷走会因找不到 sklearn / torch / pyrodigal 报错。
+> Windows 首次运行如弹出 SmartScreen（未签名），点「更多信息 → 仍要运行」；杀软误报 PyInstaller 打包时请添加信任。
 
 ## GUI 输入
 
