@@ -34,11 +34,6 @@ Test sample: `examples/sample.fasta` (6 MB) + precomputed `examples/sample_phi.n
 
 ## Model
 
-| Evaluation | fITI hi AUC | ITI dir_AUC |
-|---|---:|---:|
-| LOPO (5-province macro) | **0.711** | **0.935** |
-| test1 (5-bundle macro) | **0.709** | **0.888** |
-
 ### Architecture
 
 ```
@@ -134,11 +129,6 @@ MIT
 - 5 省逐项表格：prov / fiti / iti / M1 / M2 / M3
 
 ## 模型
-
-| 评测 | fITI hi AUC | ITI dir_AUC |
-|---|---:|---:|
-| LOPO（5 省 macro） | **0.711** | **0.935** |
-| test1（5-bundle macro） | **0.709** | **0.888** |
 
 ### 架构
 
